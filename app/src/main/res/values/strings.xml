@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Task Timer Java</string>
+    <string name="action_settings">Settings</string>
+    <string name="menutitle_addTask">Add Task</string>
+    <string name="menumain_showDurations">Durations Report</string>
+    <string name="menumain_showAbout">About TaskTimer</string>
+    <string name="menumain_generate">generate</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_task_message">No Task Selected</string>
+    <string name="name_hint">Task name: required</string>
+    <string name="desc_hint">Task description: optional</string>
+    <string name="sortOrder_hint">Order: sorts low to high</string>
+    <string name="save_text">Save</string>
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="instructions_descriptions">Use the add button (+) in the toolbar above to add a new task.  Tasks with lower sort orders will be placed higher up the list.  Tasks with the same sort order will be sorted alphabetically.  Tapping a task will start the timer for that task (and stop timers for any other tasks).  Each task has Edit and Delete buttons.</string>
+    <string name="instructions_name">Instructions</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="deldiag_positive_caption">Delete</string>
+    <string name="deldiag_message">Deleting will also delete all timings associated with task %1$d: %2$s</string>
+    <string name="cancelEditDial_message">You have unsaved changes. Do you want to abandon them or continue editing?</string>
+    <string name="cancelEditDial_pos_cap">Continue editing.</string>
+    <string name="cancelEditDial_neg_cap">Abandon changes.</string>
+    <string name="about_copyright">Copyright \u00a9 2019 Mo2a co.</string>
+    <string name="about_weblink">instructions available at www.learnprogramming.academy</string>
+    <string name="about_email">Contact: mahmoud.mamoon202@gmail.com</string>
+    <string name="about_credits">Icon derived from <b>analog clock </b>at openclipart.org by <b>Anonymous</b></string>
+    <string name="td_text_name">Task Name</string>
+    <string name="td_text_date">Date</string>
+    <string name="td_text_duration">Duration</string>
+    <string name="td_text_description">Description</string>
+    <string name="title_activity_durations_report">DurationsReport</string>
+    <string name="rm_title_filter_day">Show Day</string>
+    <string name="rm_title_filter_week">Show Week</string>
+    <string name="rm_title_filter_date">Set Report Date</string>
+    <string name="rm_title_delete">Delete Old Timings</string>
+    <string name="filter_date_message">Select date for reports.</string>
+    <string name="rm_delete_message">Select date to delete up to.</string>
+    <string name="confirm_delete_message">Are you sure you want to delete all timings before %1s?</string>
+</resources>
